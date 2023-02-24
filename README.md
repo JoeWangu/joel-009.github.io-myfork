@@ -1,2 +1,2 @@
-# BlescoSMS
-Blescohouse School Management System
+# BlescoHouse Schools
+Blescohouse public website

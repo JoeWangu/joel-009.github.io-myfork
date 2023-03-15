@@ -421,6 +421,34 @@ footer .footer-foot .foot-last {
     float: right;
 }
 
+.jf {
+    font-size: 20px;
+    font-weight: bold;
+    animation: jfcolor 5s linear 2s infinite forwards;
+}
+
+@keyframes jfcolor {
+    0% {
+        color: #ff0000;
+    }
+
+    25% {
+        color: #ffff00;
+    }
+
+    50% {
+        color: #d400ff;
+    }
+
+    75% {
+        color: #00ffea;
+    }
+
+    100% {
+        color: #002fff;
+    }
+}
+
 /* media queries */
 @media(max-width:600px) {
 
@@ -500,7 +528,7 @@ footer .footer-foot .foot-last {
         height: 300px;
     }
 
-/* footer section */
+    /* footer section */
     footer .footer-box {
         display: flex;
         flex-direction: column;

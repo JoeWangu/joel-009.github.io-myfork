@@ -14,3 +14,6 @@ TASK 2
 
 TASK 3
 6. Make changes in the forked repository and commit
+7. Do "git pull" then do "git diff" to check the changes
+   then go to file and resolve conflicts manually then
+   commit and push the file

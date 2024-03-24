@@ -1,0 +1,16 @@
+DOCUMENTATION FOR FORKING AND CLONING
+
+TASK 1
+1. Go to github.com and sign into your account
+2. Identify a repository you want to fork and click on fork
+
+TASK 2
+3. Go to git and type:
+	git clone `the-remote-repository-link`
+	git checkout -b plp-branch
+4. Make changes, add, commit and push
+5. Go to main branch with "git checkout main" and merge
+   with "git merge plp-branch"
+
+TASK 3
+6. Make changes in the forked repository and commit
